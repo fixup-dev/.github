@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://fix-up.co.il"><img alt="Website" src="https://img.shields.io/badge/website-fix--up.co.il-7c3aed?style=flat-square"></a>
-  <a href="mailto:info@fix-up.co.il"><img alt="Email" src="https://img.shields.io/badge/email-info%40fix--up.co.il-e91e72?style=flat-square"></a>
+  <a href="mailto:service@fix-up.co.il"><img alt="Email" src="https://img.shields.io/badge/email-service%40fix--up.co.il-e91e72?style=flat-square"></a>
   <a href="https://wa.me/972548786400"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-+972%2054--878--6400-25d366?style=flat-square&logo=whatsapp&logoColor=white"></a>
 </p>
 
@@ -42,11 +42,11 @@
 | | |
 |---|---|
 | Website | [fix-up.co.il](https://fix-up.co.il) |
-| Email | [info@fix-up.co.il](mailto:info@fix-up.co.il) |
+| Email | [service@fix-up.co.il](mailto:service@fix-up.co.il) |
 | WhatsApp | [+972 54-878-6400](https://wa.me/972548786400) |
 | Phone | 054-992-3039 |
 | Instagram | [@byfixup](https://www.instagram.com/byfixup/) |
-| Facebook | [facebook.com/fixup](https://www.facebook.com/profile.php?id=61585104397725) |
+| Facebook | [Fix-up on Facebook](https://www.facebook.com/profile.php?id=61585104397725) |
 
 ---
 
