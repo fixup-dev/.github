@@ -46,7 +46,7 @@
 | WhatsApp | [+972 54-878-6400](https://wa.me/972548786400) |
 | Phone | 054-992-3039 |
 | Instagram | [@byfixup](https://www.instagram.com/byfixup/) |
-| Facebook | [Fix-up on Facebook](https://www.facebook.com/profile.php?id=61585104397725) |
+| Facebook | [Fix-up on Facebook](https://www.facebook.com/byfixup) |
 
 ---
 
